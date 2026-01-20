@@ -1,4 +1,4 @@
-## Olá, eu sou Miriely Karine, seja bem vindo! 😁
+## Olá, eu sou Miriely Karine, seja bem vindo(a)! 😁
 
  <div>
    <a href="https://github.com/miriely">
