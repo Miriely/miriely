@@ -41,7 +41,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=miriely&theme=radical&hide_border=true" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=miriely&theme=radical&hide_border=true" alt="streak stats"/>
 
 <br/>
 
