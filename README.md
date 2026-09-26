@@ -44,17 +44,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=miriely&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriely&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
 ### 🤝 Vamos nos conectar!
 
 <p align="left">
