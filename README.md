@@ -26,7 +26,7 @@
     </td>
     <td width="50%"> <h4>🛍️ <a href="https://github.com/Miriely/Shopping-Magic">Shopping-Magic</a></h4>
       <p>Seletores de compras interativos construídos com foco em experiência do usuário.</p> 
-      <p><i>Tecnologias: HTML</i></p> </td> </tr> <tr> 
+      <p><i>Tecnologias: HTML, CSS e JAVASCRIPT</i></p> </td> </tr> <tr> 
     <td width="50%"> <h4>🛒 <a href="https://github.com/Miriely/ecommerce-syntaxwear">Ecommerce SyntaxWear</a></h4> 
       <p>Loja virtual desenvolvida com foco em interface de e-commerce.</p> 
       <p><i>Tecnologias: HTML e CSS</i></p> </td> 
