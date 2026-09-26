@@ -66,9 +66,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=miriely&color=blueviolet&style=flat-square&label=Visualizações+do+perfil" />
-</p>
+
 
 <div align="center">
 
